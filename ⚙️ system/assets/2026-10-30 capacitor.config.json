@@ -1,0 +1,6 @@
+{
+  "appId": "com.vistal.schoolplanner",
+  "appName": "School Planner",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
